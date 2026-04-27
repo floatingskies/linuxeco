@@ -23,7 +23,7 @@ Filosofia do projeto:
 
 ```bash
 # 1. Baixe o script
-wget https://github.com/floatingskies/linuxeco/blob/main/linuxeco.sh
+wget https://github.com/floatingskies/linuxeco.sh
 
 # 2. Dê permissão de execução
 chmod +x linuxeco.sh
