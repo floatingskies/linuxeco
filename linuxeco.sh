@@ -1422,14 +1422,6 @@ BANNER
         setup_utilities
     fi
 
-    if ${INSTALL_TERMINAL:-false}; then
-        setup_terminal
-    fi
-
-    setup_fastfetch
-    setup_fonts
-    setup_git_config
-
     show_summary
 
     info "Executando limpeza de pacotes..."
