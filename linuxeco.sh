@@ -1419,7 +1419,9 @@ BANNER
     fi
 
     if ${INSTALL_UTILITIES:-false}; then
+        setup_backup
         setup_utilities
+        setup_terminal
     fi
 
     show_summary
