@@ -1422,6 +1422,7 @@ BANNER
         setup_backup
         setup_utilities
         setup_terminal
+        setup_fonts
     fi
 
     show_summary
